@@ -1,6 +1,4 @@
-<h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There!+I'm+Karan+👋..;++;Full-Stack+Developer,;Software+Engineering+Student,;Currently+Learning+ML+and+Devops,;Experinced+Problem+Solver..."></a>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Hello+There!+I'm+Karan+%F0%9F%91%8B..;I'm+a+Software+Engineering+Student%2C;I+am+currently+Learning+ML%2C;Please+feel+free+to+contact+me!" alt="Typing SVG" /></a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="18"> **Who am I?**
